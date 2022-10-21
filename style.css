@@ -1,4 +1,19 @@
-h1{ text-align: center; font-size: medium; 20px
-    color: r;
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Gastronomia Cozinha e Ensina</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1 style="text-align: center">Gastronomia Cozinha e Ensina</h1>
 
-}
+<p><em>A gastronomia é</em> um ramo de conhecimento que abrange a culinária, as bebidas, os materiais usados na alimentação e, em geral, todos os aspectos culturais a ela associados.</p>
+<p style="font-size: 20px"><em>A gastronomia é</em> um ramo de conhecimento que abrange a culinária, as bebidas, os materiais usados na alimentação e, em geral, todos os aspectos culturais a ela associados.</p>
+
+<p>Oferecemos profissionais experientes e antenados às mudanças no mundo da gastronomia. 
+Para ajuda-los a entender e executar receitas.</p>
+
+
+</body>
+</html>
